@@ -225,7 +225,7 @@ class VevVevVeeeebActivity : AppCompatActivity() {
                     bghhyhyhyhy626?.let { arrayOf(it) } ?: arrayOfNulls(0)
                 val gtgthyhhy = Intent(Intent.ACTION_CHOOSER)
                 gtgthyhhy.putExtra(Intent.EXTRA_INTENT, ghyujujujuj)
-                gtgthyhhy.putExtra(Intent.EXTRA_TITLE, getString(R.string.dfgtimage_chooserefrgtgttt))
+                gtgthyhhy.putExtra(Intent.EXTRA_TITLE, getString(R.string.gtgtjiotgjiojigt))
                 gtgthyhhy.putExtra(Intent.EXTRA_INITIAL_INTENTS, tgtgt)
                 startActivityForResult(
                     gtgthyhhy, gtjoirfijfjoirfjio
