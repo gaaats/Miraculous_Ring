@@ -29,6 +29,55 @@
 
 
 
+
+
+    <ImageView
+        android:id="@+id/img_222222222"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="32dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/hyjuujju"
+        app:layout_constraintBottom_toTopOf="@id/img_main_enemeefrgyhyhyhyyh"
+        app:layout_constraintEnd_toStartOf="@id/img_33333333"
+        app:layout_constraintStart_toEndOf="@id/img_111111111"/>
+    <ImageView
+        android:id="@+id/img_33333333"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="32dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/yyjujujuj"
+        app:layout_constraintBottom_toTopOf="@id/img_main_enemeefrgyhyhyhyyh"
+        app:layout_constraintEnd_toStartOf="@id/img_44444444"
+        app:layout_constraintStart_toEndOf="@id/img_222222222"/>
+
+
+    <ImageView
+        android:id="@+id/btn_clooooooosa"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_baseline_close_24"
+        app:layout_constraintEnd_toEndOf="@id/ftgyhy"
+        app:layout_constraintStart_toStartOf="@id/dfeghjgrthyjuk"
+        app:layout_constraintTop_toTopOf="@id/rfrgtjytohjoy" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_pressgtgtghhy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/montserrat_black"
+        android:text="use missile"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="@id/guideline_hor_95ergty"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/dfeghjgrthyjuk"
         android:layout_width="wrap_content"
@@ -87,53 +136,6 @@
         app:layout_constraintBottom_toTopOf="@id/img_main_enemeefrgyhyhyhyyh"
         app:layout_constraintEnd_toStartOf="@id/img_222222222"
         app:layout_constraintStart_toStartOf="@+id/frgthy"/>
-
-    <ImageView
-        android:id="@+id/img_222222222"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_marginTop="32dp"
-        android:scaleType="centerInside"
-        android:src="@drawable/hyjuujju"
-        app:layout_constraintBottom_toTopOf="@id/img_main_enemeefrgyhyhyhyyh"
-        app:layout_constraintEnd_toStartOf="@id/img_33333333"
-        app:layout_constraintStart_toEndOf="@id/img_111111111"/>
-    <ImageView
-        android:id="@+id/img_33333333"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_marginTop="32dp"
-        android:scaleType="centerInside"
-        android:src="@drawable/yyjujujuj"
-        app:layout_constraintBottom_toTopOf="@id/img_main_enemeefrgyhyhyhyyh"
-        app:layout_constraintEnd_toStartOf="@id/img_44444444"
-        app:layout_constraintStart_toEndOf="@id/img_222222222"/>
-
-
-    <ImageView
-        android:id="@+id/btn_clooooooosa"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:src="@drawable/ic_baseline_close_24"
-        app:layout_constraintEnd_toEndOf="@id/ftgyhy"
-        app:layout_constraintStart_toStartOf="@id/dfeghjgrthyjuk"
-        app:layout_constraintTop_toTopOf="@id/rfrgtjytohjoy" />
-
-
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/btn_pressgtgtghhy"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="16dp"
-        android:fontFamily="@font/montserrat_black"
-        android:text="use missile"
-        android:textAllCaps="true"
-        android:textColor="@color/white"
-        android:textSize="22sp"
-        app:layout_constraintBottom_toBottomOf="@id/guideline_hor_95ergty"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/dedrfggt"
